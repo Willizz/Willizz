@@ -2,20 +2,19 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor [ Back-End ]
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade | Escola | Curso]
+🎓 Eu estudo [[ Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] na @[Cubos Academy](https://cubos.academy/)
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
 
-🔎 Também sou curioso sobre [Temas que você gosta]
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒️ Eu gosto de no meu tempo livre [ Ouvir música e jogar ]
 
-📚 Lendo: [Livro que está lendo atualmente]
+📚 Lendo: [ Secret Wars ]
+
 
 ### Eu já trabalhei com... 🔧
 
@@ -23,8 +22,7 @@
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
-<!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
--->![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)-->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,24 +52,24 @@
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
 
-### GitHub Stats ⚡
+<!--### GitHub Stats ⚡
 <div>
 <a href="https://github.com/Willizz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willizz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<!--<a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
+<a href="https://instagram.com/willian_dahora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/willizz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/willizz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
+<!--Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨-->
 
 <!--
 **academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
