@@ -1,6 +1,11 @@
-# Oi, me chamo Willian 👋
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9441bd&height=60&section=header"/>
 
-### Sobre mim
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=9441bd&width=435&lines=Olá, +meu+nome+é+Willian!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
+</div>
+
 🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
 
 💻 Eu sou um desenvolvedor [ Back-End ]
@@ -24,10 +29,25 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div >
+<div align="center" >
+<h3>💻 &nbsp;Back-end:</h3><a>
+</div >
+<div align="center">  
+  <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&count_private=true&hide_border=false&title_color=9441bd&icon_color=6bbe42&text_color=9441bd&bg_color=111111" alt="Willian GitHub Stats" /> 
+  <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willizz&layout=compact&hide_border=false&title_color=9441bd&text_color=9441bd&bg_color=111111" />
+</div>
+<div align="center">  
+  <a width= "15%"target="_blank" href="https://www.codewars.com/users/Willizz"><img width=15% src="https://www.codewars.com/users/Willizz/badges/micro"/><a/>
+</div>
+
 ### Entre em contato comigo! 📭
 <div>
 
 <a href="https://instagram.com/willian_dahora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/willizz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/willizz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<div align="center">  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9441bd&height=60&section=footer"/>
 </div>
