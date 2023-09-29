@@ -10,7 +10,7 @@
 
 💻 Eu sou um desenvolvedor [ Back-End ]
 
-🎓 Eu estudo [[ Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] na @[Cubos Academy](https://cubos.academy/)
+🎓 Eu estudo [ Desenvolvimento de Software Fullstack | Desenvolvimento de Software com Foco em Back-End ] na @[Cubos Academy](https://cubos.academy/)
 
 
 
