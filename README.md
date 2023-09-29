@@ -18,8 +18,8 @@
 
 📚 Lendo: [ Secret Wars ] <br/>
 <br>
-<div align="center">
-Familiarizado com: 
+<div align="center" >
+<h3>💻 &nbsp;Familiarizado com:</h3><a>
  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
