@@ -29,10 +29,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div >
-<div align="center" >
-<h3>💻 &nbsp;Back-end:</h3><a>
-</div >
+
 <div align="center">  
   <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&count_private=true&hide_border=false&title_color=9441bd&icon_color=6bbe42&text_color=9441bd&bg_color=111111" alt="Willian GitHub Stats" /> 
   <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willizz&layout=compact&hide_border=false&title_color=9441bd&text_color=9441bd&bg_color=111111" />
