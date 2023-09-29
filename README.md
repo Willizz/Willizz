@@ -1,9 +1,9 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9441bd&height=60&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=60&section=header"/>
 
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=9441bd&width=435&lines=Olá, +meu+nome+é+Willian!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=ffa500&width=435&lines=Olá, +meu+nome+é+Willian!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
 </div>
 
 🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
@@ -31,8 +31,8 @@
 
 
 <div align="center">  
-  <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&count_private=true&hide_border=false&title_color=9441bd&icon_color=6bbe42&text_color=9441bd&bg_color=111111" alt="Willian GitHub Stats" /> 
-  <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willizz&layout=compact&hide_border=false&title_color=9441bd&text_color=9441bd&bg_color=111111" />
+  <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&count_private=true&hide_border=false&title_color=ffa500&icon_color=ffa500&text_color=ffa500&bg_color=111111" alt="Willian GitHub Stats" /> 
+  <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willizz&layout=compact&hide_border=false&title_color=ffa500&text_color=ffa500&bg_color=111111" />
 </div>
 <div align="center">  
   <a width= "15%"target="_blank" href="https://www.codewars.com/users/Willizz"><img width=15% src="https://www.codewars.com/users/Willizz/badges/micro"/><a/>
@@ -46,5 +46,5 @@
 <a href="https://www.linkedin.com/in/willizz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div align="center">  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9441bd&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=60&section=footer"/>
 </div>
