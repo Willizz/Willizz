@@ -16,10 +16,11 @@
 
 ✒️ Eu gosto de no meu tempo livre [ Ouvir música e jogar ]
 
-📚 Lendo: [ Secret Wars ]
-
-
-### Familiarizado com: 
+📚 Lendo: [ Secret Wars ] <br/>
+<br>
+<div align="center">
+Familiarizado com: 
+ 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+</div>
 
 <div align="center">  
   <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&count_private=true&hide_border=false&title_color=ffa500&icon_color=ffa500&text_color=ffa500&bg_color=111111" alt="Willian GitHub Stats" /> 
