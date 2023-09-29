@@ -1,7 +1,7 @@
 # Oi, me chamo Willian 👋
 
 ### Sobre mim
-🤖 Começando na área de programação e vendo um futuro brilhante pela frente 
+🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
 
 💻 Eu sou um desenvolvedor [ Back-End ]
 
