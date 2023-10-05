@@ -19,8 +19,6 @@
 <br>
 
 📚 Lendo: [ Secret Wars ] <br/>
-
-<br>
 <div align="center" >
 <h3>💻 &nbsp;Familiarizado com:</h3><a>
  
@@ -42,12 +40,10 @@
   <a width= "15%"target="_blank" href="https://www.codewars.com/users/Willizz"><img width=15% src="https://www.codewars.com/users/Willizz/badges/micro"/><a/>
 </div>
 <br>
-<br>
     
 <div align="center">
 ### Entre em contato comigo! 📭
 <div>
-<br>
 <a href="https://instagram.com/willian_dahora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/willizz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
