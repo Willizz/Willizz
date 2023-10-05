@@ -7,12 +7,17 @@
 </div>
 <div align="center">
 🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
-
+<br>
+<br>
 💻 Eu sou um desenvolvedor [ Back-End ]
-
+<br>
+<br>
 🎓 Eu estudo [ Desenvolvimento de Software com Foco em Back-End ] na @[Cubos Academy](https://cubos.academy/)
-
+<br>
+<br>
 ✒️ Eu gosto de no meu tempo livre [ Ouvir música e jogar ]
+<br>
+<br>
 
 📚 Lendo: [ Secret Wars ] <br/>
 </div>
