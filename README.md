@@ -5,18 +5,17 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=ffa500&width=435&lines=Olá, +meu+nome+é+Willian!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
 </div>
-
+<div align="center">
 🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
 
 💻 Eu sou um desenvolvedor [ Back-End ]
 
 🎓 Eu estudo [ Desenvolvimento de Software com Foco em Back-End ] na @[Cubos Academy](https://cubos.academy/)
 
-
-
 ✒️ Eu gosto de no meu tempo livre [ Ouvir música e jogar ]
 
 📚 Lendo: [ Secret Wars ] <br/>
+</div>
 <br>
 <div align="center" >
 <h3>💻 &nbsp;Familiarizado com:</h3><a>
@@ -38,10 +37,13 @@
 <div align="center">  
   <a width= "15%"target="_blank" href="https://www.codewars.com/users/Willizz"><img width=15% src="https://www.codewars.com/users/Willizz/badges/micro"/><a/>
 </div>
-
+<br>
+<br>
+    
+<div align="center">
 ### Entre em contato comigo! 📭
 <div>
-
+<br>
 <a href="https://instagram.com/willian_dahora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/willizz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
