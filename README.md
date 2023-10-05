@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=ffa500&width=435&lines=Olá, +meu+nome+é+Willian!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
 </div>
-<div align="center">
+
 🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
 <br>
 <br>
@@ -17,10 +17,9 @@
 <br>
 ✒️ Eu gosto de no meu tempo livre [ Ouvir música e jogar ]
 <br>
-<br>
 
 📚 Lendo: [ Secret Wars ] <br/>
-</div>
+
 <br>
 <div align="center" >
 <h3>💻 &nbsp;Familiarizado com:</h3><a>
@@ -34,7 +33,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
-
+<br>
 <div align="center">  
   <img width="45%" height="196px" src="https://github-readme-stats.vercel.app/api?username=Willizz&show_icons=true&count_private=true&hide_border=false&title_color=ffa500&icon_color=ffa500&text_color=ffa500&bg_color=111111" alt="Willian GitHub Stats" /> 
   <img width="34%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willizz&layout=compact&hide_border=false&title_color=ffa500&text_color=ffa500&bg_color=111111" />
