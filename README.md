@@ -1,7 +1,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=60&section=header"/>
 
-🐌 Reomeçando na área de programação e entusiasmado
+🐌 Recomeçando na área de programação e entusiasmado
 <br>
 <br>
 💻 Eu sou um desenvolvedor [ Back-End ]
