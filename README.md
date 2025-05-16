@@ -1,11 +1,6 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=60&section=header"/>
 
-</div>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=900&size=30&pause=1000&color=ffa500&width=435&lines=Olá, +meu+nome+é+Willian!;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
-</div>
-
 🐌 Começando na área de programação e vendo um futuro brilhante pela frente 
 <br>
 <br>
