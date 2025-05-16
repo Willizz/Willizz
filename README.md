@@ -6,8 +6,8 @@
 <br>
 💻 Eu sou um desenvolvedor [ Back-End ]
 <br>
-<br>
 🎓 Eu estudei [ Desenvolvimento de Software com Foco em Back-End ] na @[Cubos Academy](https://cubos.academy/)
+<br>
 🎓 Estou estudando React JS e Next.js na Udemy
 <br>
 <br>
