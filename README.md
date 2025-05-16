@@ -7,7 +7,8 @@
 💻 Eu sou um desenvolvedor [ Back-End ]
 <br>
 <br>
-🎓 Eu estudo [ Desenvolvimento de Software com Foco em Back-End ] na @[Cubos Academy](https://cubos.academy/)
+🎓 Eu estudei [ Desenvolvimento de Software com Foco em Back-End ] na @[Cubos Academy](https://cubos.academy/)
+🎓 Estou estudando React JS e Next.js na Udemy
 <br>
 <br>
 ✒️ Eu gosto de no meu tempo livre [ Ouvir música e jogar ]
